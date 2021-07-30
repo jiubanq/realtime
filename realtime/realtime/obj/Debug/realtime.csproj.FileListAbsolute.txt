@@ -1,0 +1,7 @@
+D:\realtime\realtime\realtime\bin\Debug\realtime.exe.config
+D:\realtime\realtime\realtime\bin\Debug\realtime.exe
+D:\realtime\realtime\realtime\bin\Debug\realtime.pdb
+D:\realtime\realtime\realtime\obj\Debug\realtime.csproj.CoreCompileInputs.cache
+D:\realtime\realtime\realtime\obj\Debug\realtime.csproj.CopyComplete
+D:\realtime\realtime\realtime\obj\Debug\realtime.exe
+D:\realtime\realtime\realtime\obj\Debug\realtime.pdb
